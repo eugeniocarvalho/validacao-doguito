@@ -37,6 +37,9 @@ const mensagensDeErro = {
   },
   estado: {
     valueMissing: 'O campo estado está vazio',
+  },
+  preco: {
+    valueMissing: 'O campo preço está vazio'
   }
 }
 
